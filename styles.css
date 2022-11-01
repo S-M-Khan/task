@@ -185,7 +185,7 @@ input:last-child {
 }
 
 #get-started {
-	font-size: 13px;
+	font-size: 11px;
 	cursor: var(--pointer);
 	padding: 1.5em 0;
 	letter-spacing: 2px;
